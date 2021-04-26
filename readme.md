@@ -3,7 +3,7 @@
 
 Matlab demo code for "FDDH: Fast Discriminative  Discrete  Hashing for Large-Scale Cross-Modal Retrieval"  accepted by IEEE Transactions on Neural Networks and Learning Systems
 Authors: Xin Liu, Xingzhi Wang, and Yiu-ming Cheung;
-Contact: xliu@hqu.edu.cn
+Contact: xliu[at]hqu.edu.cn
 
 
 This code uses some public software packages by the 3rd party applications, and is free for educational, academic research and non-profit purposes. Not for commercial/industrial activities. If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm), you need to appropriately cite our work.

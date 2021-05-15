@@ -33,5 +33,5 @@ calcMapTopkMapTopkPreTopkRecLabel.m: function to obtain the retrieval results.
 
 If you use our codes, we are appreciated if you appropriately cite our work.
 ################ Citation ################
-Xin Liu, Xingzhi Wang and Yiu-ming Cheung; "FDDH: Fast Discriminative Discrete Hashing for Large-Scale Cross-Modal Retrieval", IEEE Transactions on Neural Networks and Learning Systems.
+Xin Liu, Xingzhi Wang and Yiu-ming Cheung; "FDDH: Fast Discriminative Discrete Hashing for Large-Scale Cross-Modal Retrieval", IEEE Transactions on Neural Networks and Learning Systems, doi:10.1109/TNNLS.2021.3076684
 
